@@ -4,7 +4,7 @@ author: "Mac Misiura"
 date: today
 format:
   revealjs:
-    self-contained: false
+    self-contained: true
     from: markdown+emoji
     slide-number: true
     execute:
